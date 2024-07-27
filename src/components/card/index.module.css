@@ -1,0 +1,14 @@
+.card {
+  max-width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.card-img img {
+  display: block;
+  width: 100%;
+  object-fit: contain;
+}
+
+.card-content {
+  padding: 8px 8px;
+}
